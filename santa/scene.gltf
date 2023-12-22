@@ -1153,10 +1153,10 @@
     },
     {
       "doubleSided": true,
-      "name": "Material.072",
+      "name": "Hat",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.2461952567100525,
+          0.5,
           0.0,
           0.0,
           1.0
@@ -1209,10 +1209,10 @@
     },
     {
       "doubleSided": true,
-      "name": "Material.052",
+      "name": "Clothes",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.2461952567100525,
+          0.5,
           0.0,
           0.0,
           1.0
