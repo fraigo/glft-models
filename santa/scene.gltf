@@ -1139,8 +1139,14 @@
   "materials": [
     {
       "doubleSided": true,
-      "name": "Material.068",
+      "name": "HatWhite1",
       "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.66,
+          0.66,
+          0.66,
+          1.0
+        ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6
       }
@@ -1161,8 +1167,14 @@
     },
     {
       "doubleSided": true,
-      "name": "Material.078",
+      "name": "HatWhite2",
       "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.66,
+          0.66,
+          0.66,
+          1.0
+        ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6
       }
