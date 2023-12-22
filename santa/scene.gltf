@@ -1183,12 +1183,12 @@
     },
     {
       "doubleSided": true,
-      "name": "Material.048",
+      "name": "Beard",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.28829705715179443,
-          0.28829705715179443,
-          0.28829705715179443,
+          0.68829705715179443,
+          0.68829705715179443,
+          0.68829705715179443,
           1.0
         ],
         "metallicFactor": 0.0,
@@ -1253,12 +1253,12 @@
     },
     {
       "doubleSided": true,
-      "name": "Material.053",
+      "name": "Eyebrows",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.28829705715179443,
-          0.28829705715179443,
-          0.28829705715179443,
+          0.68829705715179443,
+          0.68829705715179443,
+          0.68829705715179443,
           1.0
         ],
         "metallicFactor": 0.0,
