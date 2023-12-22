@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Santa Claus Hat for AR Filter
+* source:	https://sketchfab.com/3d-models/free-santa-claus-hat-for-ar-filter-50b4c5fa3a8c486697e8dfbcd5ee0ade
+* author:	Maru Studio (https://sketchfab.com/marustudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Santa Claus Hat for AR Filter" (https://sketchfab.com/3d-models/free-santa-claus-hat-for-ar-filter-50b4c5fa3a8c486697e8dfbcd5ee0ade) by Maru Studio (https://sketchfab.com/marustudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
